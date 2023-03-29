@@ -1,0 +1,14 @@
+item/word_info/word_unit
+item/word_info/word_type
+item/word_info/conju_info
+item/word_info/origin
+item/word_info/lexical_info
+item/word_info/pos_info/pos
+item/word_info/pos_info/comm_pattern_code/pattern_info/pattern
+item/word_info/pos_info/comm_pattern_code/grammar_info/grammar
+item/word_info/pos_info/comm_pattern_code/sense_info/type
+item/word_info/pos_info/comm_pattern_code/sense_info/definition_original
+item/word_info/pos_info/comm_pattern_code/sense_info/sense_pattern_info/pattern
+item/word_info/pos_info/comm_pattern_code/sense_info/sense_grammar_info/grammar
+item/word_info/pos_info/comm_pattern_code/sense_info/example_info/example
+item/word_info/pos_info/comm_pattern_code/sense_info/lexical_info
